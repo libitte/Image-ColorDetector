@@ -4,11 +4,15 @@ Image::ColorDetector - It's new $module
 
 # SYNOPSIS
 
-    use Image::ColorDetector;
+    use Image::ColorDetector qw( detect );
+
+    my $color_name_char = detect($path_to_image);
+
+
 
 # DESCRIPTION
 
-Image::ColorDetector is ...
+Image::ColorDetector is a module which detects a color name from a image file(binary file).
 
 # LICENSE
 
