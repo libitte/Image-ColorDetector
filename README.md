@@ -1,6 +1,6 @@
 # NAME
 
-Image::ColorDetector - Return the color name of the image file as a string
+Image::ColorDetector - It's new $module
 
 # SYNOPSIS
 
@@ -12,7 +12,7 @@ Image::ColorDetector - Return the color name of the image file as a string
 
 # DESCRIPTION
 
-Image::ColorDetector is a module which detects the color name from the image file.
+Image::ColorDetector is a module which detects a color name from a image file(binary file).
 
 # LICENSE
 
