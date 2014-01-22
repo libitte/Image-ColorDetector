@@ -1,6 +1,6 @@
 # NAME
 
-Image::ColorDetector - It's new $module
+Image::ColorDetector - return the color name of the image file as a string
 
 # SYNOPSIS
 
