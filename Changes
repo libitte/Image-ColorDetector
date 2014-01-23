@@ -2,6 +2,9 @@ Revision history for Perl extension Image-ColorDetector
 
 {{$NEXT}}
 
+0.04 2014-01-23T02:59:27Z
+    - update a pod
+
 0.03 2014-01-22T11:27:19Z
     - update a readme file
 
