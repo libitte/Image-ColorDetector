@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "return the color name of the image file as a string",
    "author" : [
       "libitte <libitte3@gmail.com>"
    ],

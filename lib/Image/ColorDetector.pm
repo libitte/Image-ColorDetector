@@ -206,7 +206,7 @@ __END__
 
 =head1 NAME
 
-Image::ColorDetector - It's new $module
+Image::ColorDetector - return the color name of the image file as a string
 
 =head1 SYNOPSIS
 
